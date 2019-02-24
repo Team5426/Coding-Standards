@@ -253,6 +253,7 @@ Switch statements should be formatted as follows:
 ```java
 switch (input) {
 	case 1:
+		fallThrough();
 	case 2:
 		prepareOneOrTwo();
         // fall through
