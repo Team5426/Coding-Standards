@@ -157,7 +157,7 @@ Variable declarations of various types shall also be followed by a line break.
 
 ```java
 public boolean doSomething() {
-	int integerOne = 1;
+    int integerOne = 1;
     int integerTwo = 2;
     
     double doubleOne = 1.0;
