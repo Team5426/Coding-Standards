@@ -271,6 +271,12 @@ switch (input) {
 ## Section 5 - Naming
 All identifiers shall only use ASCII letters and digits.
 
+**Identifiers must clearly identify what they represent.**
+Jokes, Pop-Culture and other references are **not** appropriate identifier names. Identifier prefixes such as `m` or `k` shall not be used in any projects.
+
+If you can't look at an identifier and understand what it represents with minimal thought involved, it's probably not a good identifier.
+
+
 ### 5.1 Rules by identifier type
 #### 5.1.1 Package Names
 
