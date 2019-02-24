@@ -256,16 +256,16 @@ switch (input) {
 		fallThrough();
 	case 2:
 		prepareOneOrTwo();
-        // fall through
-    case 3:
-    	prepareOneTwoOrThree();
-        break;
-    case 4:
-    	prepareFour();
-        break;
-    default:
-    	prepareDefault();
-        break;
+		// fall through
+	case 3:
+		prepareOneTwoOrThree();
+		break;
+	case 4:
+		prepareFour();
+		break;
+	default:
+		prepareDefault();
+		break;
 }
 ```
 
