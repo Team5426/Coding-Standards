@@ -111,17 +111,17 @@ else {
 
 // while loops
 while (true) {
-  // do something
+	// do something
 }
 
 // do while loops
 do {
-  // something
+	// something
 } while (true);
 
 // for loops
 for (int i = 0; i < 10; i++) {
- // something
+	// something
 }
 
 // classes and class functions
@@ -253,8 +253,8 @@ Switch statements should be formatted as follows:
 ```java
 switch (input) {
 	case 1:
-    case 2:
-    	prepareOneOrTwo();
+	case 2:
+		prepareOneOrTwo();
         // fall through
     case 3:
     	prepareOneTwoOrThree();
