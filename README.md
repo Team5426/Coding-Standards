@@ -174,6 +174,7 @@ public boolean doSomething() {
 ```
 
 ### 4.4 Whitespace
+
 #### 4.4.1 Vertical Whitespace
 
 A single blank line always appears:
